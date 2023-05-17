@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684282435 source:c:\users\asist\onedrive\escritorio\ \ \3_lenguajesdeprogramacion\9_c\16052023_cbasico2\datos_personales\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
